@@ -17,7 +17,7 @@
         <input type="text" size="50" name="word" placeholder="Enter your word:"/>
         <input type="submit" value="Search" name="search"/>
 
-      </form>
+      </form
 
     </div>
   </body>
